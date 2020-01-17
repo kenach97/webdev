@@ -44,10 +44,7 @@ ul li:hover{
     color: #f00;
 }
 
-#logo {
-    height: 30px;
-    width: 30px;
-}
+
 
 #banner { 
     width: 100%;
@@ -114,6 +111,15 @@ footer {
 
 .item{
     margin-top: 25px;
+}
+
+#contato{
+    width: 100%;
+    height: 70px;
+    font-size: 16px;
+    text-align: center;
+    color: rgb(60, 10, 126);
+    background: rgb(206, 206, 206);
 }
 
 @media only screen and (max-width: 768px), only screen and (max-device-width: 768px){
