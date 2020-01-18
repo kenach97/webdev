@@ -17,6 +17,13 @@ header{
     background-position: center center;
 }
 
+header h2{
+    color: #fff;
+    text-align: center;
+    font-size: 60px;
+    margin-top: 150px;
+}
+
 nav { 
     background: #fff;
     padding: 10px;
@@ -41,7 +48,8 @@ ul li {
 
 ul li:hover{
     cursor: pointer;
-    color: #f00;
+    color: rgb(137, 47, 253);
+    text-decoration: underline;
 }
 
 
@@ -156,6 +164,11 @@ footer {
 
     header{
         height: 300px;
+    }
+
+    header h2{
+        font-size: 40px;
+        margin-top: 60px;
     }
 
     #logo{
