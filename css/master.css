@@ -177,7 +177,7 @@ footer {
     }
     
     #mobilemenu{
-        display: inline;
+        display: none;
         width: 30px;
         height: 30px;
     }
